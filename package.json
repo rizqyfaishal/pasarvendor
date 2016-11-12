@@ -11,8 +11,14 @@
     "debug": "~2.2.0",
     "ejs": "~2.4.1",
     "express": "~4.13.4",
+    "graphql": "^0.8.0",
+    "gulp-nodemon": "^2.2.1",
     "mongoose": "^4.6.7",
     "morgan": "~1.7.0",
+    "passport": "^0.3.2",
+    "react": "^15.3.2",
+    "react-dom": "^15.3.2",
+    "semantic-ui": "^2.2.6",
     "serve-favicon": "~2.3.0"
   },
   "description": "The largest vendor production web site",
@@ -32,5 +38,13 @@
   "bugs": {
     "url": "https://github.com/rizqyfaishal/pasarvendor/issues"
   },
-  "homepage": "https://github.com/rizqyfaishal/pasarvendor#readme"
+  "homepage": "https://github.com/rizqyfaishal/pasarvendor#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-jscs": "^4.0.0",
+    "gulp-jshint": "^2.0.2",
+    "gulp-util": "^3.0.7",
+    "jshint": "^2.9.4",
+    "jshint-stylish": "^2.2.1"
+  }
 }

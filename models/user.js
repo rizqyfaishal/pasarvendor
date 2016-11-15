@@ -2,6 +2,7 @@ var Mongoose = require('mongoose');
 var db = require('../config/database');
 var connection = db.primary.connection;
 
+
 var UserSchema = Mongoose.Schema({
     name      : String,
     email     : { type: String, unique: true },

@@ -1,0 +1,18 @@
+$blue : darken(#FFF667,7%);
+$black: #000000;
+
+body {
+  background-clip: $blue;
+  transition: background-color ease-in .7s;
+  .color {
+    background: white;
+  }
+
+
+  .bg-color {
+    background-color: $black;
+  }
+   .g {
+      font-family: Arial;
+   }
+}

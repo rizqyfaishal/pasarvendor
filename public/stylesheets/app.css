@@ -1,0 +1,10 @@
+body {
+  background-clip: #fff443;
+  -webkit-transition: background-color ease-in .7s;
+  transition: background-color ease-in .7s; }
+  body .color {
+    background: white; }
+  body .bg-color {
+    background-color: #000000; }
+  body .g {
+    font-family: Arial; }

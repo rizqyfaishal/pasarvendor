@@ -40,11 +40,22 @@
   },
   "homepage": "https://github.com/rizqyfaishal/pasarvendor#readme",
   "devDependencies": {
+    "del": "^2.2.2",
     "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^3.1.1",
+    "gulp-if": "^2.0.2",
+    "gulp-inject": "^4.1.0",
     "gulp-jscs": "^4.0.0",
     "gulp-jshint": "^2.0.2",
+    "gulp-load-plugins": "^1.4.0",
+    "gulp-plumber": "^1.1.0",
+    "gulp-print": "^2.0.1",
+    "gulp-sass": "^2.3.2",
     "gulp-util": "^3.0.7",
     "jshint": "^2.9.4",
-    "jshint-stylish": "^2.2.1"
+    "jshint-stylish": "^2.2.1",
+    "nodemon": "^1.11.0",
+    "wiredep": "^4.0.0",
+    "yargs": "^6.3.0"
   }
 }
